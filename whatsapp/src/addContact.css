@@ -1,0 +1,44 @@
+.addContact{
+    padding: 20px 10px;
+}
+
+label{
+    font-size: 18px;
+    display: block;
+    margin: 10px 0px;
+    font-weight: bolder;
+}
+
+input{
+    border: 1px solid black;
+    font-size: 20px;
+    padding: 10px 5px;
+    width: 100%;
+    border-radius: 5px;
+}
+
+.details{
+    margin: 10px 50px;
+}
+
+.name{
+    margin-bottom: 10px;
+}
+
+#btn{
+    cursor: pointer;
+    color: white;
+    background-color: rgb(3, 69, 190);
+    padding: 8px;
+    border: none;
+    border-radius: 5px;
+    font-size: 18px;
+    font-family: sans-serif;
+    letter-spacing: 2px;
+    margin-top: 30px;
+}
+
+hr{
+    width: 95%;
+    margin: auto;
+}
