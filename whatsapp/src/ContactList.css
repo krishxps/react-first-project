@@ -1,0 +1,33 @@
+*{
+  margin: 0;
+}
+.list {
+  width: 90%;
+  margin: 10px auto;
+  border: 1px solid rgb(168, 151, 151);
+  border-radius: 5px;
+  padding: 10px;
+  box-sizing: border-box;
+  position: relative;
+}
+
+.nameDisplay {
+  font-weight: bolder;
+}
+
+#dlt {
+  position: absolute;
+  top: 15px;
+  right: 15px;
+  padding: 5px;
+  background: none;
+  border: 1px solid #dc4545;
+  color: #dc4545;
+  border-radius: 5px;
+}
+
+#dlt:hover {
+  background-color: #dc4545;
+  color: white;
+  cursor: pointer;
+}
